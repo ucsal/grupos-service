@@ -1,0 +1,6 @@
+Organizar DTO(Servir como um construtor para a classe designada), fazer o service(Onde as ações são tomadas Logica de negocio, ex:findAll,delete, etc). e controller(Onde a api é acessada e faz os comandos).
+Assim podemos escolher os dados que são vistos pelo usuario, alem de não ir diretamente na entidade.
+Ate dia 21/09 Feito.
+Adicionar spring security para o administrador. A fazer.
+Testar Requisições feitas pelo Controller.(em teste)
+Ate dia 25/09
